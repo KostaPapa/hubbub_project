@@ -40,7 +40,7 @@ You can also search for music using the search feature at the top of every page.
                         <ul class="social_icons text-right">
                                 <li class="facebook"><a href="https://www.facebook.com/hubbub.dance/" target="_blank">Facebook Page</a></li>
                                 <li class="insta"><a href="https://www.instagram.com/hubbub_dance/" target="_blank">Insta Profile</a></li>
-                                <li class="youtube"><a href="https://www.youtube.com/watch?v=IQX7wjBTTns">Youtube Channel</a></li>
+                                <li class="youtube"><a href="https://www.youtube.com/watch?v=IQX7wjBTTns" target="_blank">Youtube Channel</a></li>
                         </ul>
                 </div>
         </div>
