@@ -29,3 +29,22 @@ Once songs are added to an album you are then able to play, favorite, and delete
 You can also search for music using the search feature at the top of every page. Any relevant albums will appear at the top of the results page, and the results for individual songs will appear below. 
 
 <a href="http://imgur.com/1mcIoTo"><img src="http://i.imgur.com/1mcIoTo.png" title="source: imgur.com" /></a>
+
+## Learn more by watching this short video
+
+<div class="container" id="hubbub_video">
+        <div class="span3 well" style="margin-top:50px;">
+                <div class="panel panel-primary">
+                        <div class="panel-heading">
+                                <div class="panel-title"><center>Learn more about Hubbub by watching this short video</center></div>
+                        </div>
+                </div>
+                <div class="panel panel-info">
+                        <div class="panel-heading">
+                                <center>
+                                        <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/watch?v=IQX7wjBTTns"></i>
+                                </center>
+                        </div>
+                </div>
+        </div>
+</div>
