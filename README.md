@@ -32,20 +32,5 @@ You can also search for music using the search feature at the top of every page.
 
 ## Learn more by watching this short video
 
-<div class="container" id="hubbub_video">
-        <div class="span3 well" style="margin-top:50px;">
-                <div class="panel panel-primary">
-                        <div class="panel-heading">
-                                <div class="panel-title"><center>Learn more about Hubbub by watching this short video</center></div>
-                        </div>
-                </div>
-                <div class="panel panel-info">
-                        <div class="panel-heading">
-                                <center>
-                                        <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/watch?v=IQX7wjBTTns">
-                                        </iframe>
-                                </center>
-                        </div>
-                </div>
-        </div>
-</div>
+[linkname](https://www.youtube.com/watch?v=IQX7wjBTTns)
+
