@@ -4,7 +4,7 @@
 
 Hubbub is an application that let's you upload, store, and play all of your music from the cloud. You can now manage and listen to your music from any device, anywhere in the world. 
 
-![](http://i.imgur.com/9Ix2CbR.png)
+<a href="http://imgur.com/o6eK8rW"><img src="http://i.imgur.com/o6eK8rW.png" title="source: imgur.com" /></a>
 
 ## How does it work?
 
