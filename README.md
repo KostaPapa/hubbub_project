@@ -10,7 +10,7 @@ Hubbub is an application that let's you upload, store, and play all of your musi
 
 To get started, first create a new album. When adding an album cover logo, it's best to have a resolution of at least 512x512 and to use common image formats such as JPG, JPEG, or PNG.
 
-![](http://i.imgur.com/RsGZfUq.png)
+<a href="http://imgur.com/mh4fW7r"><img src="http://i.imgur.com/mh4fW7r.png" title="source: imgur.com" /></a>
 
 ## Adding Songs
 
