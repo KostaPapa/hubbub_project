@@ -1,8 +1,8 @@
 <a href="http://imgur.com/YE2wBVq"><img src="http://i.imgur.com/YE2wBVq.png" title="source: imgur.com" /></a>
 
 # Website
-![](https://media.giphy.com/media/MRhZKuJo2OXy8/giphy.gif)
-  http://hubbub.dance/
+
+http://hubbub.dance/
 
 # What is Hubbub
 
