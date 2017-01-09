@@ -42,7 +42,8 @@ You can also search for music using the search feature at the top of every page.
                 <div class="panel panel-info">
                         <div class="panel-heading">
                                 <center>
-                                        <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/watch?v=IQX7wjBTTns"></i>
+                                        <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/watch?v=IQX7wjBTTns">
+                                        </iframe>
                                 </center>
                         </div>
                 </div>
