@@ -22,6 +22,7 @@ After an album is created you will then be able to add/upload songs. Currently s
 
 Once songs are added to an album you are then able to play, favorite, and delete them.
 
+<a href="http://imgur.com/kB11QMK"><img src="http://i.imgur.com/kB11QMK.png?1" title="source: imgur.com" /></a>
 
 ## Searching
 
