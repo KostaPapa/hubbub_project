@@ -1,4 +1,4 @@
-http://i.imgur.com/YE2wBVq.png
+[img]http://i.imgur.com/YE2wBVq.png[/img]
 
 # What is Viberr?
 
